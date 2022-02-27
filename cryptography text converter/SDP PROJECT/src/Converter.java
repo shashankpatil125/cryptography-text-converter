@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.FileNotFoundException;
 
-public class finalpro {
+public class Converter {
 
     public static void arrmanage(String plaintext, char[] arrtext){
         int n=plaintext.length();
